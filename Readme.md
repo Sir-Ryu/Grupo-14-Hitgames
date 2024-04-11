@@ -8,13 +8,13 @@ HitGames es tu tienda online de videojuegos donde encontrarás una amplia varied
 
 ## Índice
 
-- [Introducción del proyecto](#introduccion-del-proyecto)
-- [Información adicional](#informacion-adicional)
+- [Introducción del proyecto](#introducción-del-proyecto)
+- [Información adicional](#información-adicional)
 - [¿Te gustaría saber más sobre HitGames?](#te-gustaria-saber-mas-sobre-hitgames)
 - [Diseño](#diseño)
 - [Wireframes](#wireframes)
 - [Instrucciones para probar la web](#instrucciones-para-probar-la-web)
-- [Enlaces de los deploys Beta de cada página](#enlaces-de-los-deploys-beta-de-cada-pagina)
+- [Enlaces de los deploys Beta de cada página](#enlaces-de-los-deploys-beta-de-cada-página)
 - [Páginas de referencia](#paginas-de-referencia)
 - [Equipo de desarrollo](#equipo-de-desarrollo)
 
