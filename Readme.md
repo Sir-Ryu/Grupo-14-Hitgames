@@ -29,24 +29,24 @@ El cliente, DH Venture Capitals, ha confiado en el equipo de HitGames para el de
 
 ## Información adicional
 
-• Cliente: DH Venture Capitals
-• Tecnologías: Node.js, React, Express, EJS, MySQL, Sequelize.
-• Metodología: Agile (Scrum)
-• Gestión de tareas: Trello
+- Cliente: DH Venture Capitals
+- Tecnologías: Node.js, React, Express, EJS, MySQL, Sequelize, Eslint.
+- Metodología: Agile (Scrum)
+- Gestión de tareas: [Trello](https://trello.com/b/tmSzMzyo/grupo-14-hitgames)
 
 ## Próximos pasos:
 
-- [x] Sprint 1: Introducción y wireframing
+- [x] Sprint 1: Introducción y Wireframing
 - [ ] Sprint 2: HTML + CSS
 - [ ] Sprint 3: Template Engines
-- [ ] Sprint 4: Middlewares y autenticación
+- [ ] Sprint 4: Middlewares y Autenticación
 - [ ] Sprint 5: Bases de datos
 - [ ] Sprint 6: Validaciones (Back + Front)
 - [ ] Sprint 7: APIs + React
 
 ## ¿Te gustaría saber más sobre HitGames?
 
-- Visita nuestro sitio web: [https://www.hitgames.org/](https://www.hitgames.org/)
+- Visita nuestro sitio web: [https://www.hitgames.com/]()
 - Sigue nuestras redes sociales:
   - Facebook: [Enlace de Facebook]
   - Twitter: [Enlace de Twitter]
@@ -59,7 +59,11 @@ El cliente, DH Venture Capitals, ha confiado en el equipo de HitGames para el de
 
 ## Wireframes
 
-[ENLACE_WIREFRAMES]
+- Wireframe de Inicio: [Wireframe de Inicio](wireframe/Inicio.excalidraw.png)
+- Wireframe de Detalle del Producto [Wireframe de Detalle del Producto](wireframe/Detalle%20del%20Producto.excalidraw.png)
+- Wireframe de Carrito [Wireframe de Carrito](wireframe/Carrito.excalidraw.png)
+- Wireframe de Register [Wireframe de Register](wireframe/Register.excalidraw.png)
+- Wireframe de Login [Wireframe de Login](wireframe/Login.excalidraw.png)
 
 ## Instrucciones para probar la web
 
@@ -82,22 +86,21 @@ El cliente, DH Venture Capitals, ha confiado en el equipo de HitGames para el de
 
 ## Enlaces de los deploys Beta de cada página
 
-- Página principal: [Enlace de la página principal]
-- Página de catálogo: [Enlace de la página de catálogo]
-- Página de producto: [Enlace de la página de producto]
-- Página de carrito de compras: [Enlace de la página de carrito de compras]
-- Página de checkout: [Enlace de la página de checkout]
-- Página de perfil de usuario: [Enlace de la página de perfil de usuario]
+- Página Principal: [Enlace de la Página Principal]
+- Página de Biblioteca: [Enlace de la Página de Biblioteca]
+- Página de Detalle Producto: [Enlace de la Página deDetalle Pproducto]
+- Página de Carrito de Compras: [Enlace de la Página de Carrito de Compras]
+- Página de Perfil de Usuario: [Enlace de la Página de Perfil de Usuario]
 
 ## Páginas de referencia
 
-- https://www.g2a.com/es/
-- https://www.riotgames.com/es00
-- https://store.steampowered.com/
-- https://nextgames.com.ar/
-- https://www.eneba.com/latam/
-- https://store.epicgames.com/es-ES/
-- https://www.ubisoft.com/es-es/
+- [G2a.com](https://www.g2a.com/es/)
+- [Riotgames.com](https://www.riotgames.com/es00)
+- [Steampowered.com](https://store.steampowered.com/)
+- [Nextgames.com](https://nextgames.com.ar/)
+- [Eneba.com](https://www.eneba.com/latam/)
+- [Epicgames.com](https://store.epicgames.com/es-ES/)
+- [Ubisoft.com](https://www.ubisoft.com/es-es/)
 
 ## Equipo de desarrollo
 
