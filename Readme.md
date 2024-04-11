@@ -10,7 +10,7 @@ HitGames es tu tienda online de videojuegos donde encontrarás una amplia varied
 
 - [Introducción del proyecto](#introducción-del-proyecto)
 - [Información adicional](#información-adicional)
-- [¿Te gustaría saber más sobre HitGames?](#te-gustaría-saber-mas-sobre-hitgames)
+- [¿Te gustaría saber más sobre HitGames?](#te-gustaría-saber-más-sobre-hitgames)
 - [Diseño](#diseño)
 - [Wireframes](#wireframes)
 - [Instrucciones para probar la web](#instrucciones-para-probar-la-web)
@@ -27,7 +27,7 @@ El cliente, DH Venture Capitals, ha confiado en el equipo de HitGames para el de
 - Cliente: DH Venture Capitals
 - Tecnologías: Node.js, React, Express, EJS, MySQL, Sequelize, Eslint.
 - Metodología: Agile (Scrum)
-- Gestión de tareas: [Trello](https://trello.com/b/tmSzMzyo/grupo-14-hitgames)
+- Gestión de tareas: [Trello.com](https://trello.com/b/tmSzMzyo/grupo-14-hitgames)
 
 ## Próximos pasos:
 
