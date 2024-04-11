@@ -8,8 +8,7 @@ HitGames es tu tienda online de videojuegos donde encontrarás una amplia varied
 
 ## Índice
 
-- [Introducción](#descripcion:)
-- [Contexto del proyecto](#contexto-del-proyecto)
+- [Introducción del proyecto](#introduccion-del-proyecto)
 - [Información adicional](#informacion-adicional)
 - [¿Te gustaría saber más sobre HitGames?](#te-gustaria-saber-mas-sobre-hitgames)
 - [Diseño](#diseño)
@@ -19,11 +18,7 @@ HitGames es tu tienda online de videojuegos donde encontrarás una amplia varied
 - [Páginas de referencia](#paginas-de-referencia)
 - [Equipo de desarrollo](#equipo-de-desarrollo)
 
-## Descripción:
-
-HitGames es tu tienda online de videojuegos donde encontrarás una amplia variedad de títulos para todas las plataformas. Ofrecemos una experiencia de compra segura y rápida, con un servicio al cliente excepcional.
-
-## Contexto del proyecto
+## Introducción del proyecto
 
 El cliente, DH Venture Capitals, ha confiado en el equipo de HitGames para el desarrollo de un e-commerce de videojuegos. Este proyecto representa un desafío apasionante para el equipo, que se encuentra comprometido a ofrecer una plataforma innovadora y de calidad.
 
@@ -46,7 +41,7 @@ El cliente, DH Venture Capitals, ha confiado en el equipo de HitGames para el de
 
 ## ¿Te gustaría saber más sobre HitGames?
 
-- Visita nuestro sitio web: [https://www.hitgames.com/]()
+- Visita nuestro sitio web: [https://www.HitGames.com/]()
 - Sigue nuestras redes sociales:
   - Facebook: [Enlace de Facebook]
   - Twitter: [Enlace de Twitter]
@@ -72,7 +67,7 @@ El cliente, DH Venture Capitals, ha confiado en el equipo de HitGames para el de
 - Asegúrate de tener Node.js instalados en tu computadora.
 - Para ejecutar los comandos, abre la terminal o el símbolo del sistema en la carpeta del proyecto.
 
-- Dirección local: \* [http://localhost:3000](http://localhost:3000)
+- Dirección local: [http://localhost:3000](http://localhost:3000)
 
 **Para ejecutar los comandos, abre la terminal o el símbolo del sistema en la carpeta del proyecto:**
 
@@ -94,7 +89,7 @@ El cliente, DH Venture Capitals, ha confiado en el equipo de HitGames para el de
 
 ## Páginas de referencia
 
-- [G2a.com](https://www.g2a.com/es/)
+- [G2A.com](https://www.g2a.com/es/)
 - [Riotgames.com](https://www.riotgames.com/es00)
 - [Steampowered.com](https://store.steampowered.com/)
 - [Nextgames.com](https://nextgames.com.ar/)
